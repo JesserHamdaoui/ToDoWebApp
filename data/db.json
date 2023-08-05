@@ -1,0 +1,81 @@
+{
+  "todos": [
+    {
+      "id": "f98566fc-93d6-4f12-a4ac-ae07c81ea0c3",
+      "title": "Buy Groceries",
+      "description": "Buy fruits, vegetables, and other essentials",
+      "date": "2023-07-30",
+      "done": false
+    },
+    {
+      "id": "87241f8e-1061-48fc-87ab-dfa72b9baf7b",
+      "title": "Finish Project Report",
+      "description": "Complete the final touches on the project report.",
+      "date": "2023-08-05",
+      "done": false
+    },
+    {
+      "id": "1d57271f-ff17-49fb-ae8a-523b233c84fb",
+      "title": "Call Mom",
+      "description": "Give mom a call and catch up.",
+      "date": "2023-08-01",
+      "done": false
+    },
+    {
+      "id": "43cfd334-0d82-43a9-901b-d5d4eb96ad38",
+      "title": "Pay Bills",
+      "description": "Pay utility bills and rent for the month.",
+      "date": "2023-08-10",
+      "done": false
+    },
+    {
+      "id": "44b78b13-3816-431d-a6d9-01170078cb42",
+      "title": "Exercise",
+      "description": "Go for a 30-minute jog in the morning.",
+      "date": "2023-08-02",
+      "done": false
+    },
+    {
+      "id": "53db5e4d-5dd1-4a6e-bfeb-68cc4ebbae23",
+      "title": "Read Book",
+      "description": "Read the first few chapters of a new book.",
+      "date": "2023-08-04",
+      "done": true
+    },
+    {
+      "id": "99528b4b-5ca2-4c2e-8eb3-17e26f3a82a5",
+      "title": "Prepare Presentation",
+      "description": "Gather data and prepare slides for the upcoming presentation.",
+      "date": "2023-08-07",
+      "done": true
+    },
+    {
+      "id": "f6e7b48a-4cc6-4cb3-9b5b-29cc26262542",
+      "title": "Meet Friends",
+      "description": "Plan a get-together with friends this weekend.",
+      "date": "2023-08-06",
+      "done": true
+    },
+    {
+      "id": "32bc15ed-ff79-402f-8740-4935df0b9a09",
+      "title": "Clean Garage",
+      "description": "Organize and clean up the clutter in the garage.",
+      "date": "2023-08-03",
+      "done": true
+    },
+    {
+      "id": "f3f1c732-15ce-480d-916a-6a4a96382f66",
+      "title": "Watch Movie",
+      "description": "Watch the latest blockbuster movie with family.",
+      "date": "2023-08-09",
+      "done": true
+    },
+    {
+      "id": "af8719eb-10b8-41f1-8b48-69ce620587db",
+      "title": "Study",
+      "description": "Review study material for upcoming exams.",
+      "date": "2023-08-08",
+      "done": true
+    }
+  ]
+}
